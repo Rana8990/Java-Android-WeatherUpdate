@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123414127181",
+    "project_id": "weatherupdate-64e31",
+    "storage_bucket": "weatherupdate-64e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123414127181:android:bb7cf7ea9ca5776a2d3204",
+        "android_client_info": {
+          "package_name": "com.example.weatherupdate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs-zySm8LrguxMzZcgHNDCoxx7LXghnVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
