@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherUpdate</string>
+    <string name="register">register</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">logout</string>
+    <string name="see_history">See History</string>
+    <string name="back_to_main_menu">Back to Main Menu</string>
+    <string name="login">Login</string>
+</resources>
